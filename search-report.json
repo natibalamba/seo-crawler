@@ -1,0 +1,50 @@
+[
+  {
+    "query": "ufc",
+    "status": 401,
+    "responseTime": 363,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "Programação",
+    "status": 401,
+    "responseTime": 124,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "Результаты",
+    "status": 401,
+    "responseTime": 107,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "L'ascension",
+    "status": 401,
+    "responseTime": 104,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "鶴屋怜",
+    "status": 401,
+    "responseTime": 109,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "권원일 옥타곤 입성 재도전",
+    "status": 401,
+    "responseTime": 107,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "Pesajes",
+    "status": 401,
+    "responseTime": 108,
+    "issues": "Unexpected status 401"
+  },
+  {
+    "query": "aaaaaaaaaaaaaaaaaaaa",
+    "status": 401,
+    "responseTime": 112,
+    "issues": "Unexpected status 401; No-results state not found"
+  }
+]
